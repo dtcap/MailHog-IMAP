@@ -25,6 +25,13 @@ deps:
 	go get github.com/satori/go.uuid
 	go get golang.org/x/crypto/bcrypt
 
+	go get github.com/dtcap/MailHog-IMAP/config
+	go get github.com/dtcap/MailHog-IMAP/imap
+	go get github.com/dtcap/backends/auth
+	go get github.com/dtcap/backends/config
+	go get github.com/dtcap/backends/mailbox
+	go get github.com/dtcap/backends/resolver
+
 test-deps:
 	go get github.com/smartystreets/goconvey
 

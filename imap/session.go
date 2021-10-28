@@ -11,7 +11,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/mailhog/backends/auth"
+	"github.com/dtcap/backends/auth"
 	"github.com/mailhog/imap"
 )
 

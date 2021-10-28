@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 
 	"github.com/mailhog/MailHog-IMAP/config"
-	"github.com/mailhog/backends/auth"
+	"github.com/dtcap/backends/auth"
 	"github.com/mailhog/backends/mailbox"
 	"github.com/mailhog/backends/resolver"
 )
