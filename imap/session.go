@@ -12,7 +12,7 @@ import (
 	"sync"
 
 	"github.com/dtcap/backends/auth"
-	"github.com/mailhog/imap"
+	"github.com/dtcap/imap"
 )
 
 // Session represents a SMTP session using net.TCPConn
