@@ -9,7 +9,7 @@ import (
 
 	"github.com/mailhog/MailHog-IMAP/config"
 	"github.com/dtcap/backends/auth"
-	"github.com/mailhog/backends/mailbox"
+	"github.com/dtcap/backends/mailbox"
 	"github.com/mailhog/backends/resolver"
 )
 
